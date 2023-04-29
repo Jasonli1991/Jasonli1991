@@ -1,31 +1,15 @@
-<!-- HEADER -->
+<h1 align="center">👋 Hi there</h1>
+<h3>I'm Jason, a passionate and constantly learning frontend developer from Taiwan!</h3>
 
-<div align="center">
+- 🔭 I'm currently studying **programimg.**
 
-  <p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="src/images/fox_computer.jpg" alt="profile-image" /></a></p>
+- 🌱 I’m currently learning **Java, Swift.**
 
-  <h3><a href="https://github.com/Jasonli1991"><img src="src/images/onegen.svg" alt="profile-title" /></a></h3>
+- 👯 I’m looking to collaborate on **electronic tabletop games.**
 
-  <p>Hey-o, I’m <strong>Jason <em>Li</em></strong>,</p>
-<p>a passionate and constantly learning frontend developer from Taiwan! ^^</p>
+- 🤝 I’m looking for help with **websoket.**
 
-  <p><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual_Studio_Code-%23007acc?logo=visualstudiocode&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-vscode" /></a>
-<a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/badge/-Neovim-%23019733?logo=neovim&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-neovim" /></a>
-<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/-Visual_Studio-%235c2d91?logo=visualstudio&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-vs" /></a>
-<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-%2300979d?logo=arduino&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-arduino" /></a> <br />
-<a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/-EndeavourOS-%237f7fff?logo=endeavouros&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-endeavour" /></a>
-<a href="https://getfedora.org/en/workstation/"><img src="https://img.shields.io/badge/-Fedora_37-%2351a2da?logo=fedora&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-fedora" /></a>
-<a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/-Windows_10-%230078d6?logo=windows&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-windows" /></a></p>
-
-  <p><a href="https://github.com/nickonegen"><img width="62%" src="src/images/langs.png" alt="badge-lang-all" /></a></p>
-
-</div>
-
-<p><a href="https://github.com/nickonegen"><img src="src/images/borderseperator.gif" alt="divider" /></a></p>
-
-<!-- STACK & EDUCATION -->
-
-<p><a href="https://github.com/nickonegen"><img align="right" width="42%" src="src/images/education.png" alt="education" /></a></p>
+- 📫 How to reach me **chih.chung.li.1991@gmail.com**
 
 <div align="left" width="70%">
 
@@ -50,3 +34,12 @@ const me = {
 ```
 
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/chih_chung_li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chih_chung_li" height="30" width="40" /></a>
+<a href="https://discord.gg/Jasonli#1236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jasonli#1236" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
