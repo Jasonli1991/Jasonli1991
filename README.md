@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Jasonli1991">
-    <img src="pixel-speech-bubble.gif">
+    <img src="pixel-speech-bubble2.gif">
   </a>
 </div>
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
