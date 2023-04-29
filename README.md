@@ -5,7 +5,7 @@
 </div>
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
 
-<h2>I'm Jason, </h2>
+<h2>Hello, I'm Jason, </h2>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
 <p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="IMG_8803.jpg" alt="profile-image" /></a></p>
