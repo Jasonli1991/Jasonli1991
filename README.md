@@ -4,7 +4,8 @@
   </a>
 </div>
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
-<h3>I'm Jason, a passionate and constantly learning full-stack developer from Taiwan!</h3>
+<h2>I'm Jason, </h2>
+<h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
 - 🔭 I'm currently studying **programimg.**
 
