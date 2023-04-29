@@ -6,8 +6,8 @@
 
   <h3><a href="https://github.com/Jasonli1991"><img src="src/images/onegen.svg" alt="profile-title" /></a></h3>
 
-  <p>Hey-o, I’m <strong>Jason <em>Li</em></strong>,
-a passionate and constantly learning frontend developer from Taiwan! ^^</p>
+  <p>Hey-o, I’m <strong>Jason <em>Li</em></strong>,</p>
+<p>a passionate and constantly learning frontend developer from Taiwan! ^^</p>
 
   <p><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual_Studio_Code-%23007acc?logo=visualstudiocode&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-vscode" /></a>
 <a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/badge/-Neovim-%23019733?logo=neovim&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-neovim" /></a>
