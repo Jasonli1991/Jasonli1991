@@ -2,11 +2,11 @@
 
 <div align="center">
 
-  <p><a href="https://github.com/nickonegen"><img align="right" width="35%" src="src/images/fox_computer.jpg" alt="profile-image" /></a></p>
+  <p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="src/images/fox_computer.jpg" alt="profile-image" /></a></p>
 
-  <h3><a href="https://github.com/nickonegen"><img src="src/images/onegen.svg" alt="profile-title" /></a></h3>
+  <h3><a href="https://github.com/Jasonli1991"><img src="src/images/onegen.svg" alt="profile-title" /></a></h3>
 
-  <p>Hey-o, I’m <strong>Nick <em>Onegen</em></strong>,
+  <p>Hey-o, I’m <strong>Jason <em>Li</em></strong>,
 a dude who likes computers and
 other such things! ^^</p>
 
@@ -32,19 +32,15 @@ other such things! ^^</p>
 
 ```javascript
 const me = {
-  name: 'Nick Onegen',
+  name: 'Jason Li',
   pronouns: [ 'he', 'him' ],
   stack: {
-    languages: [ 'JavaScript', 'TypeScript', 'C',
-      'C++', 'Rust', 'php', 'Python', 'Bash',
-      'VHDL', 'x86' ],
-    frontend: [ 'Hugo', 'Tailwind', 'Babel', 'Vue' ],
-    backend: [ 'Node', 'Express', 'NestJS', 'NAPI' ],
-    science: [ 'MATLAB', 'Jupyter', 'NumPy',
-      'SciPy', 'maxima' ],
+    languages: [ 'JavaScript', 'jQuery', 'Java', 'Python' ],
+    frontend: [ 'HTML5', 'CSS3', 'BootStrap', 'Vue' ],
+    backend: [ 'Node', 'Express' ],
   },
   code (caffeine) {
-    console.log('🦊☕️ Refueling...');
+    console.log('🐶☕️ Refueling...');
     while (caffeine > 0) {
       console.log('💻🪄 Magic!');
       caffeine--;
