@@ -1,6 +1,4 @@
-<head>
-<link rel="stylesheet" href="src/animation.css" />
-</head>
+<a href="https://github.com/Jasonli1991"><img src="src/hithere.gif"></a>
 <h1 align="center" class="animated">👋 Hi there</h1>
 <h3>I'm Jason, a passionate and constantly learning frontend developer from Taiwan!</h3>
 
