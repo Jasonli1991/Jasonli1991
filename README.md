@@ -1,6 +1,6 @@
 <head>
 <link rel="stylesheet" href="src/animation.css" />
-<head/>
+</head>
 <h1 align="center" class="animated">👋 Hi there</h1>
 <h3>I'm Jason, a passionate and constantly learning frontend developer from Taiwan!</h3>
 
