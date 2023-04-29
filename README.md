@@ -1,6 +1,6 @@
 <a href="https://github.com/Jasonli1991"><img src="pixel-speech-bubble.gif"></a>
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
-<h3>I'm Jason, a passionate and constantly learning frontend developer from Taiwan!</h3>
+<h3>I'm Jason, a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
 - 🔭 I'm currently studying **programimg.**
 
@@ -21,7 +21,7 @@ const me = {
   stack: {
     languages: [ 'JavaScript', 'jQuery', 'Java', 'Python' ],
     frontend: [ 'HTML5', 'CSS3', 'BootStrap', 'Vue' ],
-    backend: [ 'Node', 'Express' ],
+    backend: [ 'Node', 'mySQL' ],
   },
   code (caffeine) {
     console.log('🐶☕️ Refueling...');
