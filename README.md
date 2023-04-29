@@ -5,10 +5,10 @@
 </div>
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
 
-<p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="fox_computer.jpg" alt="profile-image" /></a></p>
-
 <h2>I'm Jason, </h2>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
+
+<p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="fox_computer.jpg" alt="profile-image" /></a></p>
 
 - 🔭 I'm currently studying **programimg.**
 
