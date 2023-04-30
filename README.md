@@ -63,6 +63,6 @@ const me = {
 # README
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jasonli1991&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark)
 
 
