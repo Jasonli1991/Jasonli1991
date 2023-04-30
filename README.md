@@ -63,7 +63,7 @@ const me = {
 <p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
 
 
-<div>
+<div align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/chih_chung_li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chih_chung_li" height="30" width="40" /></a>
