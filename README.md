@@ -36,9 +36,9 @@ const me = {
   name: 'Jason Li',
   pronouns: [ 'he', 'him' ],
   stack: {
-    languages: [ 'JavaScript', 'jQuery', 'Java', 'Python' ],
+    languages: [ 'Python', 'JavaScript', 'jQuery', 'Java' ],
     frontend: [ 'HTML5', 'CSS3', 'BootStrap', 'Vue' ],
-    backend: [ 'Node', 'mySQL' ],
+    backend: [ 'mySQL', 'Node' ],
   },
   code (caffeine) {
     console.log('🐶☕️ Refueling...');
