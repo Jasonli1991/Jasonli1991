@@ -8,7 +8,7 @@
 <div align="center">
     <a href="https://github.com/Jasonli1991">
       <img src="bat-unscreen.gif" alt="bat" width="150">
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<!--       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> -->
     </a>
 </div>
 
