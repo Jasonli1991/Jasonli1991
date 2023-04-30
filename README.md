@@ -67,7 +67,7 @@ const me = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark) -->
 
 
-| <a href="https://github.com/Jasonli1991-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/Jasonli1991-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark&hide_border=true" height=120% /></a> |
+| <a href="https://github.com/Jasonli1991-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/Jasonli1991-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark&hide_border=true" width=120% height=130% /></a> |
 | ------------- | ------------- |
 
 
