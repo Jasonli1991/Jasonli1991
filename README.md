@@ -60,7 +60,6 @@ const me = {
 </p> -->
 
 
-<div align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/chih_chung_li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chih_chung_li" height="30" width="40" /></a>
@@ -69,6 +68,8 @@ const me = {
 
 <p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
 
+
+<div align="center">
   
 | <a href="https://github.com/Jasonli1991-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Jason's github stats" height=72%/></a> | <a href="https://github.com/Jasonli1991-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark&hide_border=true" height=100% /></a> </div>|
 | ------------- | ------------- |  
