@@ -5,7 +5,7 @@
 </div>
 
 
-<div style="text-align:">
+<div align="center">
     <a href="https://github.com/Jasonli1991">
       <img src="bat-unscreen.gif" alt="bat" width="150">
     </a>
