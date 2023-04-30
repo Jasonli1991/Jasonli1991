@@ -73,28 +73,40 @@ const me = {
 
 
 <!-- Light Mode -->
-<div align="center"> 
+<!-- <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Jason's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&hide_rank=true#gh-light-mode-only" alt="Jason's Github stats" />
 </a>
-</div>
+</div> -->
 
 <!-- Dark Mode -->
-<div align="center"> 
+<!-- <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Jason's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000&hide_rank=true#gh-dark-mode-only" alt="Jason's Github stats" />
 </a>
+</div> -->
+
+
+
+
+
+<div class="d-block">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=Jasonli1991&theme=github_dark_dimmed&layout=compact" alt="fabianocouto" width=49.5% align=left /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" width=48% /></a>
 </div>
 
+---
 
+### Find me elsewhere
 
-
-
-
+[Portfolio](http://www.fabianocouto.com.br) |
+[LinkedIn](https://www.linkedin.com/in/fabianocoutol/) |
+[Instagram](https://instagram.com/fabianocouto) |
+[Twitter](https://twitter.com/fabianocoutol)
 
