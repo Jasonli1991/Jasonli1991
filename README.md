@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **Java, Swift.**
 
-- 👯 I’m looking to collaborate on **electronic tabletop games.**
+- 🎮 I’m looking to collaborate on **electronic tabletop games.**
 
 - 🤝 I’m looking for help with **websoket.**
 
-- 📫 How to reach me **chih.chung.li.1991@gmail.com**
+- 📫 You can reach me at **chih.chung.li.1991@gmail.com**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
