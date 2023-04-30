@@ -5,9 +5,9 @@
 </div>
 
 
-<div style="text-align:left">
+<div style="text-align:">
     <a href="https://github.com/Jasonli1991">
-      <img src="bat-unscreen.gif" alt="bat" width="150" style="margin-left: 1em"/>
+      <img src="bat-unscreen.gif" alt="bat" width="150">
     </a>
 </div>
 
