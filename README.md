@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <a href="https://github.com/Jasonli1991">
     <img src="pixel-speech-bubble2.gif">
   </a>
