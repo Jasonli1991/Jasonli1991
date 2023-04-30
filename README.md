@@ -28,8 +28,7 @@
 
 <p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
 
-<p><a href="https://github.com/Jasonli1991"><img align="right" width="42%" src="education.png" alt="education" /></a></p>
-
+<p><a href="https://github.com/Jasonli1991"><img align="right" width="42%" src="edex.png" alt="Educational Experience
 <div align="left" width="70%">
 
 ```javascript
