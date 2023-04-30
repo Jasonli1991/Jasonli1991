@@ -1,12 +1,11 @@
-<div align="center">
+<div align="left">
   <a href="https://github.com/Jasonli1991">
     <img src="pixel-speech-bubble2.gif">
   </a>
 </div>
 
 
-<div align="left">
-  <pre><span>                              </span></pre>
+<div align="center">
     <a href="https://github.com/Jasonli1991">
       <img src="bat-unscreen.gif" alt="bat" width="150">
     </a>
