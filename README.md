@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/Jasonli1991">
-    <img src="bat-unscreen.gif" height=10%>
+    <img src="bat-unscreen.gif" height=50 width=50 >
   </a>
 </div>
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
