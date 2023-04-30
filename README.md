@@ -7,7 +7,7 @@
 
 <div style="text-align:left">
     <a href="https://github.com/Jasonli1991">
-      <img src="bat-unscreen.gif" alt="bat" width="100"/>
+      <img src="bat-unscreen.gif" alt="bat" width="200"/>
     </a>
 </div>
 
