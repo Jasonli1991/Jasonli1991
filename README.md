@@ -60,13 +60,11 @@ const me = {
 </p>
 
 
-# README
+<!-- # README -->
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jasonli1991&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark) -->
-<a href="https://github.com/Jasonli1991/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jasonli1991&repo=github-readme-stats&theme=buefy" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jasonli1991&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark)
+
 
 
 
