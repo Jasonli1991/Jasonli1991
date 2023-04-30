@@ -63,10 +63,10 @@ const me = {
 <p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
 <!-- # README -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jasonli1991&theme=vue-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jasonli1991&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=vue-dark) -->
 
-
+<a href="https://github.com/Jasonli1991"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/Jasonli1991"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
