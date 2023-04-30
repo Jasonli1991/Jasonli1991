@@ -5,12 +5,9 @@
 </div>
 
 
-<div align="center">
-    <a href="https://github.com/Jasonli1991">
-      <img src="bat-unscreen.gif" alt="bat" width="150">
-      <span>&nbsp;</span>
-    </a>
-</div>
+<!-- <div align="center">
+    <a href="https://github.com/Jasonli1991"><img src="bat-unscreen.gif" alt="bat" width="100"></a>
+</div> -->
 
 
 <!-- <div align="center">
@@ -20,7 +17,7 @@
 </div> -->
 <!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
 
-<h2>👋 I'm Jason, </h2>
+<h2>👋 I'm Jason, </h2><a href="https://github.com/Jasonli1991"><img src="bat-unscreen.gif" alt="bat" width="100"></a>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
 <p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="IMG_8803.jpg" alt="mydog-image" /></a></p>
