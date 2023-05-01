@@ -2,23 +2,23 @@
 <br>
 <div align="left">
   <a href="https://github.com/Jasonli1991">
-    <img src="pixel-speech-bubble2.gif">
+    <img src="./src/pixel-speech-bubble2.gif">
   </a>
 </div>
 <h2>👋I'm Jason,
-  <a href="https://github.com/Jasonli1991"><img src="pixel-sans.gif" alt="sans" width="80"></a>&nbsp;
-  <a href="https://github.com/Jasonli1991"><img src="dog-tail-wagging-small-dog.gif" alt="tail" width="45"></a>
-  <a href="https://github.com/Jasonli1991"><img src="tapping-foot-foot-tap.gif" alt="tapping" width="100"></a>
-  <a href="https://github.com/Jasonli1991"><img src="dancing-dance.gif" alt="follower" width="50"></a>
-  <a href="https://github.com/Jasonli1991"><img src="deltarune-deltarune-chapter2.gif" alt="deltarune" width="70"></a>
-  <a href="https://github.com/Jasonli1991"><img src="garden-divider-leaves.gif" alt="lawn" width="45"></a>
-  <a href="https://github.com/Jasonli1991"><img src="family-walk.gif" alt="family" width="100"></a>
-  <a href="https://github.com/Jasonli1991"><img src="garden-divider-leaves.gif" alt="lawn" width="45"></a>
-  <a href="https://github.com/Jasonli1991"><img src="spinning-spin.gif" alt="spinning" width="60"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/pixel-sans.gif" alt="sans" width="80"></a>&nbsp;
+  <a href="https://github.com/Jasonli1991"><img src="./src/dog-tail-wagging-small-dog.gif" alt="tail" width="45"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/tapping-foot-foot-tap.gif" alt="tapping" width="100"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/dancing-dance.gif" alt="follower" width="50"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/deltarune-deltarune-chapter2.gif" alt="deltarune" width="70"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/garden-divider-leaves.gif" alt="lawn" width="45"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/family-walk.gif" alt="family" width="100"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/garden-divider-leaves.gif" alt="lawn" width="45"></a>
+  <a href="https://github.com/Jasonli1991"><img src="./src/spinning-spin.gif" alt="spinning" width="60"></a>
 </h2>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
-<p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="IMG_8803.jpg" alt="mydog-image" /></a></p>
+<p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="./src/IMG_8803.jpg" alt="mydog-image" /></a></p>
 
 - 🔭 I'm currently studying **programimg.**
 
@@ -36,10 +36,10 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
 
 
-<p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
+<p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
 
-<p><a href="https://github.com/Jasonli1991#gh-light-mode-only"><img align="right" width="42%" src="edexlight1.PNG" alt="Educational Experience"/></a></p>
-<p><a href="https://github.com/Jasonli1991#gh-dark-mode-only"><img align="right" width="42%" src="edexdark.PNG" alt="Educational Experience"/></a></p>
+<p><a href="https://github.com/Jasonli1991#gh-light-mode-only"><img align="right" width="42%" src="./src/edexlight1.PNG" alt="Educational Experience"/></a></p>
+<p><a href="https://github.com/Jasonli1991#gh-dark-mode-only"><img align="right" width="42%" src="./src/edexdark.PNG" alt="Educational Experience"/></a></p>
 <div align="left" width="70%">
 
 ```javascript
@@ -69,7 +69,7 @@ const me = {
 <a href="https://discord.gg/Jasonli#1236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jasonli#1236" height="30" width="40" /></a>
 </p>
 
-<p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
+<p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
 
 
 <!-- <div align="center">
