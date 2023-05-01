@@ -36,7 +36,7 @@
 
 <p><a href="https://github.com/Jasonli1991"><img src="borderseperator.gif" alt="divider" /></a></p>
 
-<p><a href="https://github.com/Jasonli1991#gh-light-mode-only"><img align="right" width="42%" src="edexlight.PNG" alt="Educational Experience"/></a></p>
+<p><a href="https://github.com/Jasonli1991#gh-light-mode-only"><img align="right" width="42%" src="edexlight1.PNG" alt="Educational Experience"/></a></p>
 <p><a href="https://github.com/Jasonli1991#gh-dark-mode-only"><img align="right" width="42%" src="edexdark.PNG" alt="Educational Experience"/></a></p>
 <div align="left" width="70%">
 
