@@ -5,7 +5,7 @@
     <img src="pixel-speech-bubble2.gif">
   </a>
 </div>
-<h2>👋&nbsp; I'm &nbsp;Jason,
+<h2>👋I'm Jason,
   <a href="https://github.com/Jasonli1991"><img src="pixel-sans.gif" alt="sans" width="80"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="dog-tail-wagging-small-dog.gif" alt="tail" width="45"></a>
   <a href="https://github.com/Jasonli1991"><img src="tapping-foot-foot-tap.gif" alt="tapping" width="100"></a>
