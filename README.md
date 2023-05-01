@@ -7,8 +7,9 @@
 </div>
 <h2>👋&nbsp; I'm &nbsp;Jason, &nbsp;
   <a href="https://github.com/Jasonli1991"><img src="pixel-sans.gif" alt="sans" width="80"></a>&nbsp;
-  <a href="https://github.com/Jasonli1991"><img src="dog-tail-wagging-small-dog.gif" alt="tail" width="45"></a>&nbsp;
-  <a href="https://github.com/Jasonli1991"><img src="tapping-foot-foot-tap.gif" alt="tapping" width="100"></a>&nbsp;
+  <a href="https://github.com/Jasonli1991"><img src="dog-tail-wagging-small-dog.gif" alt="tail" width="45"></a>
+  <a href="https://github.com/Jasonli1991"><img src="garden-divider-leaves.gif" alt="tail" width="45"></a>
+  <a href="https://github.com/Jasonli1991"><img src="tapping-foot-foot-tap.gif" alt="tapping" width="100"></a>
   <a href="https://github.com/Jasonli1991"><img src="dancing-dance.gif" alt="follower" width="60"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="deltarune-deltarune-chapter2.gif" alt="deltarune" width="60"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="family-walk.gif" alt="family" width="100"></a>&nbsp;
