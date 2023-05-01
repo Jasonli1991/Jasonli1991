@@ -8,6 +8,11 @@
 <h2>👋&nbsp; I'm &nbsp;Jason, &nbsp;
   <a href="https://github.com/Jasonli1991"><img src="pixel-sans.gif" alt="sans" width="80"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="dog-tail-wagging-small-dog.gif" alt="tail" width="40"></a>
+  <a href="https://github.com/Jasonli1991"><img src="deltarune-deltarune-chapter2.gif" alt="deltarune" width="60"></a>
+  <a href="https://github.com/Jasonli1991"><img src="dancing-dance.gif" alt="follower" width="60"></a>
+  <a href="https://github.com/Jasonli1991"><img src="tapping-foot-foot-tap.gif" alt="tapping" width="60"></a>
+  <a href="https://github.com/Jasonli1991"><img src="family-walk.gif" alt="family" width="60"></a>
+  <a href="https://github.com/Jasonli1991"><img src="spinning-spin.gif" alt="spinning" width="60"></a>
 </h2>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
