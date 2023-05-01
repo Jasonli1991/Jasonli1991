@@ -12,7 +12,7 @@
   <a href="https://github.com/Jasonli1991"><img src="dancing-dance.gif" alt="follower" width="60"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="deltarune-deltarune-chapter2.gif" alt="deltarune" width="60"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="family-walk.gif" alt="family" width="100"></a>&nbsp;
-  <a href="https://github.com/Jasonli1991"><img src="spinning-spin.gif" alt="spinning" width="80"></a>
+  <a href="https://github.com/Jasonli1991"><img src="spinning-spin.gif" alt="spinning" width="60"></a>
 </h2>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
