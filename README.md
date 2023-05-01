@@ -4,9 +4,6 @@
     <img src="pixel-speech-bubble2.gif">
   </a>
 </div>
-
-<!-- <h1 align="center" class="animated">👋 Hi there</h1> -->
-
 <h2>👋&nbsp; I'm &nbsp;Jason, &nbsp;<a href="https://github.com/Jasonli1991"><img src="pixel-sans.gif" alt="bat" width="80"></a></h2>
 <h3>a passionate and constantly learning full-stack developer from Taiwan!</h3>
 
