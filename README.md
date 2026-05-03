@@ -28,7 +28,7 @@
 
 - Currently learning how to build things that actually work in production
 
-- 📫 chih.chung.li.1991@gmail.com
+- 📫 jason@dash-u.email
 
 <br>
 
@@ -56,9 +56,9 @@ const me = {
   location: 'Taichung, Taiwan',
   stack: {
     ai      : ['LangChain', 'RAG', 'Ollama', 'Vector DB'],
-    backend : ['Spring Boot', 'Java', "C#", 'FastAPI', 'Python'],
+    backend : ['FastAPI', 'Python', 'Spring Boot', 'Java'],
     infra   : ['Docker', 'Kubernetes', 'PostgreSQL', 'CI/CD'],
-    frontend: ['Flutter', 'TypeScript', 'Vue.js', 'React' 'Tailwind']
+    frontend: ['React', 'TypeScript', 'Vue.js', 'Tailwind']
   },
   experience: '5+ years · 45+ projects',
   superpower: 'ex-factory supervisor who speaks both human and code',
@@ -87,23 +87,3 @@ const me = {
 </a>
 
 <p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
-
-<!-- Light Mode -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue-dark" alt="Top Languages - Light Mode"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue-dark" alt="GitHub Stats - Light Mode"/>
-  </a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue" alt="Top Languages - Dark Mode"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue" alt="GitHub Stats - Dark Mode"/>
-  </a>
-</div>
