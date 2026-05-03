@@ -77,14 +77,16 @@ const me = {
 </div>
 
 <h3 align="left">📱 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jason-li-691325118" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jasonli.json" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasonli.json" height="30" width="40" />
-  </a>
-</p>
+
+<a href="https://www.linkedin.com/in/jason-li-691325118" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/jasonli.json" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:jason@dash-u.email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
 
