@@ -61,7 +61,7 @@ const me = {
     frontend: ['React', 'TypeScript', 'Vue.js', 'Tailwind']
   },
   experience: '5+ years · 45+ projects',
-  superpower: '工廠監工 → AI 工程師，聽得懂老闆在說什麼的開發者',
+  superpower: 'ex-factory supervisor who speaks both human and code',
   build (problem) {
     console.log('🔍 Diagnosing requirements...');
     while (problem.isAmbiguous) {
