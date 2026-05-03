@@ -18,21 +18,16 @@
 
 <h3>⚡ Forward Deployed Engineer & AI Solutions Architect from Taiwan 🇹🇼</h3>
 
-<p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="./src/IMG_8803.jpg" alt="mydog-image" /></a></p>
+<img align="right" width="35%" src="./src/IMG_8803.jpg" alt="mydog-image" />
 
 - 🚀 Currently working as **Forward Deployed Engineer** @ [Dash-U Tech](https://github.com/DashU-7UP)
-
 - 🤖 Building **production-grade AI pipelines** with LangChain, RAG & Ollama
-
 - 🏭 Fun fact: ex-factory supervisor → software engineer — I bridge **human needs & tech**
-
 - 🌱 Deep-diving into **advanced RAG architectures & LLM applications**
-
 - 🤝 Open to collaborate on **AI-powered apps & complex system integrations**
-
 - 📫 Reach me at **jason@dash-u.email**
 
-<br>
+<br clear="both">
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -76,10 +71,9 @@
 
 <p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
 
-<p><a href="https://github.com/Jasonli1991#gh-light-mode-only"><img align="right" width="42%" src="./src/edexlight1.PNG" alt="Educational Experience"/></a></p>
-<p><a href="https://github.com/Jasonli1991#gh-dark-mode-only"><img align="right" width="42%" src="./src/edexdark.PNG" alt="Educational Experience"/></a></p>
+<img align="right" width="42%" src="./src/edexlight1.PNG" alt="Educational Experience"/>
 
-<div align="left" width="70%">
+<div align="left" width="55%">
 
 ```javascript
 const me = {
@@ -106,6 +100,8 @@ const me = {
 
 </div>
 
+<br clear="both">
+
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jason-li-691325118" target="blank">
@@ -118,22 +114,8 @@ const me = {
 
 <p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
 
-<!-- Light Mode -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue-dark" alt="Top Languages - Light Mode"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue-dark" alt="GitHub Stats - Light Mode"/>
-  </a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue" alt="Top Languages - Dark Mode"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue" alt="GitHub Stats - Dark Mode"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue-dark" alt="Top Languages"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&theme=vue-dark" alt="GitHub Stats"/>
 </div>
