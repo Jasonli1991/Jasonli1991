@@ -1,10 +1,9 @@
-<br>
-<br>
 <div align="left">
   <a href="https://github.com/Jasonli1991">
     <img src="./src/pixel-speech-bubble2.gif">
   </a>
 </div>
+
 <h2>👋 I'm Jason,
   <a href="https://github.com/Jasonli1991"><img src="./src/pixel-sans.gif" alt="sans" width="80"></a>&nbsp;
   <a href="https://github.com/Jasonli1991"><img src="./src/dog-tail-wagging-small-dog.gif" alt="tail" width="45"></a>
@@ -17,53 +16,61 @@
   <a href="https://github.com/Jasonli1991"><img src="./src/spinning-spin.gif" alt="spinning" width="60"></a>
 </h2>
 
-<h3>🌟 A passionate and constantly learning full-stack developer from Taiwan!</h3>
+<h3>⚡ Forward Deployed Engineer & AI Solutions Architect from Taiwan 🇹🇼</h3>
 
 <p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="./src/IMG_8803.jpg" alt="mydog-image" /></a></p>
 
-- 🔭 I'm currently studying **programming**
+- 🚀 Currently working as **Forward Deployed Engineer** @ [Dash-U Tech](https://github.com/DashU-7UP)
 
-- 🌱 I'm currently learning **Java, Swift**
+- 🤖 Building **production-grade AI pipelines** with LangChain, RAG & Ollama
 
-- 🎮 I'm looking to collaborate on **electronic tabletop games**
+- 🏭 Fun fact: ex-factory supervisor → software engineer — I bridge **human needs & tech**
 
-- 🤝 I'm looking for help with **WebSocket**
+- 🌱 Deep-diving into **advanced RAG architectures & LLM applications**
 
-- 📫 You can reach me at **chih.chung.li.1991@gmail.com**
+- 🤝 Open to collaborate on **AI-powered apps & complex system integrations**
+
+- 📫 Reach me at **jason@dash-u.email**
 
 <br>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
 
@@ -76,21 +83,23 @@
 
 ```javascript
 const me = {
-  name: 'Jason Li',
-  pronouns: [ 'he', 'him' ],
+  name    : 'Jason Li',
+  role    : 'Forward Deployed Engineer',
+  location: 'Taichung, Taiwan',
   stack: {
-    languages: [ 'JavaScript', 'jQuery', 'Java', 'C#' ],
-    frontend: [ 'HTML5', 'CSS3', 'BootStrap', 'Vue' ],
-    backend: [ 'Node.js' ],
-    database: [ 'MySQL', 'MongoDB' ]
+    ai      : ['LangChain', 'RAG', 'Ollama', 'Vector DB'],
+    backend : ['FastAPI', 'Python', 'Spring Boot', 'Java'],
+    infra   : ['Docker', 'Kubernetes', 'PostgreSQL', 'CI/CD'],
+    frontend: ['React', 'TypeScript', 'Vue.js', 'Tailwind']
   },
-  code (caffeine) {
-    console.log('🐶☕️ Refueling...');
-    while (caffeine > 0) {
-      console.log('💻🪄 Magic!');
-      caffeine--;
+  experience: '5+ years · 45+ projects',
+  superpower: '工廠監工 → AI 工程師，聽得懂老闆在說什麼的開發者',
+  build (problem) {
+    console.log('🔍 Diagnosing requirements...');
+    while (problem.isAmbiguous) {
+      problem = clarify(problem);
     }
-    console.log('🪫💤 Out of fuel!');
+    return ship({ solution: problem, quality: 'production-grade' });
   }
 };
 ```
@@ -99,11 +108,11 @@ const me = {
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/chih_chung_li" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chih_chung_li" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/jason-li-691325118" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/Jasonli#1236" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  <a href="https://instagram.com/jasonli.json" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasonli.json" height="30" width="40" />
   </a>
 </p>
 
