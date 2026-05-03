@@ -28,7 +28,7 @@
 
 - Currently learning how to build things that actually work in production
 
-- 📫 jason@dash-u.email
+- 📫 chih.chung.li.1991@gmail.com
 
 <br>
 
@@ -56,9 +56,9 @@ const me = {
   location: 'Taichung, Taiwan',
   stack: {
     ai      : ['LangChain', 'RAG', 'Ollama', 'Vector DB'],
-    backend : ['FastAPI', 'Python', 'Spring Boot', 'Java'],
+    backend : ['Spring Boot', 'Java', "C#", 'FastAPI', 'Python'],
     infra   : ['Docker', 'Kubernetes', 'PostgreSQL', 'CI/CD'],
-    frontend: ['React', 'TypeScript', 'Vue.js', 'Tailwind']
+    frontend: ['Flutter', 'TypeScript', 'Vue.js', 'React' 'Tailwind']
   },
   experience: '5+ years · 45+ projects',
   superpower: 'ex-factory supervisor who speaks both human and code',
