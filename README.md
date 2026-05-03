@@ -93,19 +93,19 @@ const me = {
 <!-- Light Mode -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue-dark" alt="Top Languages - Light Mode"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue-dark" alt="Top Languages - Light Mode"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue-dark" alt="GitHub Stats - Light Mode"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue-dark" alt="GitHub Stats - Light Mode"/>
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue" alt="Top Languages - Dark Mode"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonli1991&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue" alt="Top Languages - Dark Mode"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue" alt="GitHub Stats - Dark Mode"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jasonli1991&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&theme=vue" alt="GitHub Stats - Dark Mode"/>
   </a>
 </div>
