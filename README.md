@@ -76,14 +76,8 @@ const me = {
 
 <h3 align="left">📱 Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/jason-li-691325118" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/jasonli.json" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-</a>
-<a href="mailto:jason@dash-u.email">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/jason-li-691325118" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/jasonli.json" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:jason@dash-u.email"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <p><a href="https://github.com/Jasonli1991"><img src="./src/borderseperator.gif" alt="divider" /></a></p>
