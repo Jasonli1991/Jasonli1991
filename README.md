@@ -20,17 +20,15 @@
 
 <p><a href="https://github.com/Jasonli1991"><img align="right" width="35%" src="./src/IMG_8803.jpg" alt="mydog-image" /></a></p>
 
-- 🚀 Currently working as **Forward Deployed Engineer** @ [Dash-U Tech](https://github.com/DashU-7UP)
+- Forward Deployed Engineer @ [Dash-U Tech](https://github.com/DashU-7UP)
 
-- 🤖 Building **production-grade AI pipelines** with LangChain, RAG & Ollama
+- Working mostly on AI integrations — LangChain, RAG, Ollama
 
-- 🏭 Fun fact: ex-factory supervisor → software engineer — I bridge **human needs & tech**
+- Came from manufacturing, now write code. Still figuring things out.
 
-- 🌱 Deep-diving into **advanced RAG architectures & LLM applications**
+- Currently learning how to build things that actually work in production
 
-- 🤝 Open to collaborate on **AI-powered apps & complex system integrations**
-
-- 📫 Reach me at **jason@dash-u.email**
+- 📫 jason@dash-u.email
 
 <br>
 
